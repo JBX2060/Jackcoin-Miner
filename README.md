@@ -1,2 +1,0 @@
-# Jackcoin-Miner
-Jackcoin + Miner
